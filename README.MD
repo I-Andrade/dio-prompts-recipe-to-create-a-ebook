@@ -31,6 +31,8 @@ ChatGPT：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
+- Imagens gerado via ChatGPT
+- E-book construido via Google Documents
 
 ## 📚 Materiais
 
