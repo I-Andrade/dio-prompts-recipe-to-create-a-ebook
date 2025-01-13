@@ -7,7 +7,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Banner.png"
     width="400"  
 />
 </p>
@@ -20,7 +20,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/I-Andrade/dio-prompts-recipe-to-create-a-ebook/blob/main/output/E-book%20-%20Cinec%C3%A9rebro%20-%20O%20mundo%20nerd%20contado%20pela%20mente%20de%20uma%20IA.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
