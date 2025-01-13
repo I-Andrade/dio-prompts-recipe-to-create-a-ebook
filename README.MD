@@ -7,10 +7,7 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/I-Andrade/dio-prompts-recipe-to-create-a-ebook/blob/main/output/E-book%20-%20Cinec%C3%A9rebro%20-%20O%20mundo%20nerd%20contado%20pela%20mente%20de%20uma%20IA.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
