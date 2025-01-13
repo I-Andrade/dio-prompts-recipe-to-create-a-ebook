@@ -40,5 +40,3 @@ ChatGPT：
 I.Andrade
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
