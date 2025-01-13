@@ -43,8 +43,6 @@ ChatGPT：
 
 - ebook gerado em `output`
 
-## 🛠️ Instruções de execução
-
 ## 👨‍💻 Expert
 
 I.Andrade
