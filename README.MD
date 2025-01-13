@@ -2,11 +2,6 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
 -------
 
 
@@ -30,62 +25,57 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [GoogleDocuments](https://docs.google.com/)
 
 ## 🧠 Prompts
-
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  conteudo  | Você é um roteirista de e-book, e vamos criar um ebook com resumos de filmes, focado no mundo nerd, e apresentado de forma engraçada, cujo o nome é "Cinecérebro", subtítulo é ""O mundo nerd contado pela mente de uma IA."" e tem foco em filmes da cultura nerd, com o público alvo de pessoas sem tempo de assistir filmes.
 
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
 
-Midjourney：
+para os [filme]:
+ 
+Alladin
+Vingadores
+Homem Aranha
+Star Wars
+Matrix
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução que sempre irá vincular o nome e subtítulo do podcast com o [filme] que será resumido.
+- no bloco [CURIOSIDADE 1] substitua por engraçada descrição sobre ano de lançamento, o valor convertido em reais da bilheteria alcançada por aquele [filme] e comentando sobre a nota do [filme] no IMDb, https://www.imdb.com/ , (ou outra fonte de dados acessível)
+- no bloco [CURIOSIDADE 2] substitua pelo resumo do [filme] citando os principais personagens.
+- Cada resumo vai ser apresentado pelo personagem mais engraçado daquele [filme].
+- O roteiro deve sempre apresentar qualquer número, escrito por extenso em língua portuguesa do Brasil.
+- Gerar uma imagem de capa para o e-book
+- Gerar uma imagem de capítulo para cada resumo que tenha a ver com cada [filme] resumido, criando imagens genéricas mas alinhadas ao [filme] ou ao narrador do resumo do [filme].
+- Gerar um índice e uma página de agradecimento, com imagem, e informando que o conteúdo foi criado por IA e montado por humano.
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos.
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+I.Andrade
 
 ---
 
